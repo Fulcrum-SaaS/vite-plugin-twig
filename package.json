@@ -2,19 +2,20 @@
   "name": "vite-plugin-twig",
   "version": "2.1.1",
   "license": "MIT",
+  "scope": "@fulcrumsaas",
   "keywords": [
     "vite-plugin",
     "twig"
   ],
-  "author": "Andrea \"Fiad\" Fiadone",
+  "author": "Colyn Brown <colyn.brown@fulcrumsaas.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fiadone/vite-plugin-twig.git"
+    "url": "git+https://github.com/Fulcrum-SaaS/vite-plugin-twig.git"
   },
   "bugs": {
-    "url": "https://github.com/fiadone/vite-plugin-twig/issues"
+    "url": "https://github.com/Fulcrum-SaaS/vite-plugin-twig/issues"
   },
-  "homepage": "https://github.com/fiadone/vite-plugin-twig#readme",
+  "homepage": "https://github.com/Fulcrum-SaaS/vite-plugin-twig#readme",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
