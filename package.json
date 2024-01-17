@@ -40,7 +40,7 @@
     "twig": "^1.15.4"
   },
   "peerDependencies": {
-    "vite": "3.x"
+    "vite": "5.0.11"
   },
   "devDependencies": {
     "@fiad/eslint-config": "^1.0.3",
@@ -50,7 +50,7 @@
     "rollup": "^2.77.2",
     "typescript": "^4.7.4",
     "unbuild": "^0.7.6",
-    "vite": "^3.0.3"
+    "vite": "^5.0.11"
   },
   "publishConfig": {
     "access": "public"
