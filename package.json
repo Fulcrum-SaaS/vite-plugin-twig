@@ -1,6 +1,6 @@
 {
   "name": "@fulcrumsaas/vite-plugin-twig",
-  "version": "2.1.1",
+  "version": "2.2.1",
   "license": "MIT",
   "keywords": [
     "vite-plugin",
@@ -40,7 +40,7 @@
     "twig": "^1.15.4"
   },
   "peerDependencies": {
-    "vite": "5.0.11"
+    "vite": "^5.0.11"
   },
   "devDependencies": {
     "@fiad/eslint-config": "^1.0.3",
