@@ -1,8 +1,7 @@
 {
-  "name": "vite-plugin-twig",
+  "name": "@fulcrumsaas/vite-plugin-twig",
   "version": "2.1.1",
   "license": "MIT",
-  "scope": "@fulcrumsaas",
   "keywords": [
     "vite-plugin",
     "twig"
